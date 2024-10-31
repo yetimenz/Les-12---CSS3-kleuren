@@ -1,0 +1,15 @@
+
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+            td {
+                width: 25%;
+                height: 100px;
+                text-align: center;
+                vertical-align: middle;
+                color: rgb(113, 28, 28);
+                font-weight: bold;
+            }
+ 
